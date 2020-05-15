@@ -13,8 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am a software engineer at Amazon; my team build systems and enforce safety and security on devices used by our clients. Just before that I was a grad student at University of Guelph. I did my research in Evolutionary algorithms; optimizing algorithms that optimize solutions to complex problems (lol!).</p>
+                    <p>My journey in software development started from my love for mathematics. I wanted to study a course that required lots of mathematics but was not only mathematics, then I found CS with mathematics and I knew I was home. What kept me in the is the possibilities. I can make anything!</p>
                     </div>
                 </div>
                 </div>
@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites using JavaScript,React,HTML,CSS</p>
                 </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>Mobile Development </h3>
+                    <p>I also have experience building mobile apps using Java and PHP. I have also played around with kotlin and flutter.</p>
                 </div>
                 </div>
             </div>
