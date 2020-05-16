@@ -4,7 +4,6 @@ export default class Sidebar extends Component {
   render() {
     return (
       <div>
-        <div>
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
@@ -27,18 +26,17 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/funke.akinola" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://www.instagram.com/funke.akinola/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href=" http://www.linkedin.com/in/adefunke-akinola-0480b279/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
+                  Thanks <a href="https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/" target="_blank" rel="noopener noreferrer">Dhruv</a> for inspiration 
               </small></p>
             </div>
           </aside>
         </div>
-      </div>
     )
   }
 }
