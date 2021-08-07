@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Adefunke</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am a software engineer at Amazon; my team build systems and enforce safety and security on devices used by our clients. Just before that I was a grad student at University of Guelph. I did my research in Evolutionary algorithms; optimizing algorithms that optimize solutions to complex problems (lol!).</p>
                     <p>My journey in software development started from my love for mathematics. I wanted to study a course that required lots of mathematics but was not only mathematics, then I found CS with mathematics and I knew I was home. What kept me in the is the possibilities. I can make anything!</p>
